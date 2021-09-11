@@ -1,2 +1,5 @@
 Adding some text before rebasing conflicts
-Adding asome more changes from the main branch...
+
+Adding changes after rebasing conflicts.
+
+These changes are added frome the feature branch bigtrouble.
