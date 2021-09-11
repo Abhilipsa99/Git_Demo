@@ -1,0 +1,9 @@
+Adding some text before rebasing conflicts
+<<<<<<< HEAD
+Adding asome more changes from the main branch...
+=======
+
+
+
+These changes are added frome the feature branch bigtrouble.
+>>>>>>> bigtrouble
